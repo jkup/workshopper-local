@@ -7,6 +7,7 @@ Install and run Nodeschool workshoppers without adding them to your global npm l
 ```
 git clone https://github.com/jkup/workshopper-local.git
 cd workshopper local
+npm install
 ```
 
 ## Workshops
@@ -58,3 +59,9 @@ Then just type npm run followed by any of the following:
 + tower-of-babel
 + web-audio-school
 + webgl-workshop
+
+Example:
+
+```
+npm run javascripting
+```
