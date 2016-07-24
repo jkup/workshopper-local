@@ -1,6 +1,6 @@
 {
   "name": "workshopper-local",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Install and run Nodeschool workshoppers locally",
   "main": "index.js",
   "scripts": {
